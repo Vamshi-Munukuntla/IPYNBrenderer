@@ -1,1 +1,1 @@
-# IPYNBrenderer
+# IPYNB renderer python package
